@@ -1,2 +1,4 @@
 venv/
 data/updated_cancer_trials.csv
+src/recruiting_trials.csv
+src/completed_or_terminated_trials.csv
